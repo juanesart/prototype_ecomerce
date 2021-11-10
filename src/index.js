@@ -1,4 +1,5 @@
 import express from 'express';
+import './config/mongoose';
 
 const app = express()
 
